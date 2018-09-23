@@ -30,7 +30,7 @@ _So, now that you have your github account figured out, lets clear some things u
 
 **Commit:** a commit is similar to saving a file. Think of it like a checkpoint in a video game, if you die you can go back to that checkpoint. This holds for coding too. If you&#39;re working away on your project and eventually you break it, or it stops working, you can go back to where you made your last commit. When you commit something, you&#39;ll be given a chance to leave a message, leaving yourself a helpful message so you know what each commit does helps. Sometimes I&#39;ll use WIP (Work In Progress) when I&#39;m lazy, and am confident that everything will be fine. Usually it is, but sometimes it&#39;s not and I&#39;ll have to go back through several commits cursing that I didn&#39;t document my work better.
 
-**Merge:** Merging takes the chances from a branch and adds them to another, such as the master branch. This often happens in the form of a pull request (see below).
+**Merge:** Merging takes the changes from a branch and adds them to another, such as the master branch. This often happens in the form of a pull request (see below).
 
 **Pull Request: (PR)** A pull request is made when you&#39;ve been working on a branch and are ready to have it reviewed by others in the project to have it merged into master. PRs are a great way to check for quality control.
 
@@ -48,7 +48,7 @@ On Github, make the repo you&#39;re planning to make.
 
 Clone it down, and you&#39;ll easily be able to work with it.
 
-**Note:** There are several ways to make a new repo, you could make it locally with git init, but the method above is the easiest way to start it – personally.
+**Note:** There are several ways to make a new repo, you could make it locally with git init, but the method above is the easiest way to start it â€“ personally.
 
  At this point if you&#39;re contributing to the project, you will also clone it.
 
@@ -82,7 +82,7 @@ Now you can check your commits and the commits of the other group members by typ
 
 This is often overwhelming, so I&#39;ll filter it by typing
 
-**$ git log –pretty=oneline** ( This will show the messages of the commits and some other info)
+**$ git log â€“pretty=oneline** ( This will show the messages of the commits and some other info)
 
 When you&#39;re ready to push:
 
